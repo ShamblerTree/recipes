@@ -4,5 +4,5 @@
 * lime - £0.24
 * salt - £0.01
 ## Instructions
-* put one avocado into a bowl.
+* peel the avocados and put one into a bowl.
 * mash the avocado.
