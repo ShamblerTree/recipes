@@ -1,2 +1,5 @@
 *.png
-receipts/
+receipts/images
+receipts/plots
+receipts/analysis
+!receipts/data
